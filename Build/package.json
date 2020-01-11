@@ -1,13 +1,13 @@
 {
   "name": "atomic-editor",
   "dependencies": {
-    "dts-generator": "^2.0.0",
-    "fs-extra": "^0.24.0",
-    "glob": "^6.0.3",
-    "jake": "^8.0.12",
-    "monaco-editor": "^0.9.0",
-    "tslint": "^3.2.0",
-    "typescript": "^2.4.1"
+    "dts-generator": "^3.0.0",
+    "fs-extra": "^8.1.0",
+    "glob": "^7.1.6",
+    "jake": "^10.4.3",
+    "monaco-editor": "^0.19.2",
+    "tslint": "^5.20.1",
+    "typescript": "^3.7.4"
   },
   "devDependencies": {}
 }
